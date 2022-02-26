@@ -1,6 +1,6 @@
 # where-it-all-started
 
-All of the coding lectures and practices I have written in Turkish back when I have started learning programming. There is a total of over 10,000 lines of code within these folders written using only C. Honestly, some of the content within these files may be unfiltered, sloppy, and poorly written. Nevertheless, for the sake of authenticity and nostalgia, I will keep them as it is. I also think it may be a good reference for people who want to learn programming but don't know where to start and stumble upon this by chance.
+An archive containing all of the Turkish coding lectures and practices I have written back when I have started learning programming. In this archive, there is a total of over 10,000 lines of C code written using Dev-C++. Honestly, some of the content within these files may be unfiltered, cringe, and poorly written. Nevertheless, for the sake of authenticity and nostalgia, I will keep them as it is. I also think it may be a good reference for people who want to learn programming but don't know where to start and stumble upon this "pile of codes" by chance.
 
 
 
