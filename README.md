@@ -7,7 +7,7 @@ All of the coding lectures and practices I have written in Turkish back when I h
 ## Run on Terminal
 
 ```sh
-gcc "*insert_filename_here*.c" -o test
+gcc 𝑖𝑛𝑠𝑒𝑟𝑡_𝑓𝑖𝑙𝑒𝑛𝑎𝑚𝑒_ℎ𝑒𝑟𝑒.c -o test
 test
 ```
 
